@@ -2,7 +2,6 @@
 - 👀 I’m interested in cooking some codes using my python skills as well work on projects using html-css-JS
 - 🌱 I’m currently learning DSA, the concept of OOPS and the fuctionality of open-source domain
 - 💞️ I’m looking forward for opportunities
-- 📫 How to reach me: LinkedIn- Aaditya Shirke
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Avocados are not vegetables
 
