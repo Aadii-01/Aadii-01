@@ -5,7 +5,7 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Avocados are not vegetables
 
-[![Aaditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aadii-01)](https://github.com/Aadii-01/github-readme-stats)
+# [![Aaditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aadii-01)](https://github.com/Aadii-01/github-readme-stats)
 <!---
 Aadii-01/Aadii-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
